@@ -1,0 +1,21 @@
+TransactionID,id-01,id-02,id-03,id-04,id-05,id-06,id-07,id-08,id-09,id-10,id-11,id-12,id-13,id-14,id-15,id-16,id-17,id-18,id-19,id-20,id-21,id-22,id-23,id-24,id-25,id-26,id-27,id-28,id-29,id-30,id-31,id-32,id-33,id-34,id-35,id-36,id-37,id-38,DeviceType,DeviceInfo
+3663586,-45,280290,,,0,0,,,,,100,NotFound,27,,New,NotFound,225,15,427,563,,,,,,,,New,NotFound,,chrome 67.0 for android,,,,F,F,T,F,mobile,MYA-L13 Build/HUAWEIMYA-L13
+3663588,0,3579,0,0,0,0,,,0,0,100,Found,,-300,Found,Found,166,,542,368,,,,,,,,Found,Found,Android 6.0.1,chrome 67.0 for android,24,1280x720,match_status:2,T,F,T,T,mobile,LGLS676 Build/MXB48T
+3663597,-5,185210,,,1,0,,,,,100,NotFound,52,-360,New,NotFound,225,,271,507,,,,,,,,New,NotFound,,ie 11.0 for tablet,,,,F,T,T,F,desktop,Trident/7.0
+3663601,-45,252944,0,0,0,0,,,0,0,100,NotFound,27,,Found,Found,225,15,427,563,,,,,,,,Found,Found,,chrome 67.0 for android,,,,F,F,T,F,mobile,MYA-L13 Build/HUAWEIMYA-L13
+3663602,-95,328680,,,7,-33,,,,,100,NotFound,27,,New,NotFound,225,15,567,507,,,,,,,,New,NotFound,,chrome 67.0 for android,,,,F,F,T,F,mobile,SM-G9650 Build/R16NW
+3663622,-5,36786,,,4,-2,,,,,100,NotFound,27,-480,New,NotFound,166,15,352,177,,,,,,,,New,NotFound,iOS 11.4.0,mobile safari 11.0,32,2208x1242,match_status:2,T,F,F,T,mobile,iOS Device
+3663624,-5,12577,0,0,2,-2,,,0,0,100,Found,27,-480,Found,Found,166,15,352,177,,,,,,,,Found,Found,iOS 11.4.0,mobile safari 11.0,32,2208x1242,match_status:2,T,F,F,T,mobile,iOS Device
+3663626,-5,44726,0,0,0,-2,,,0,0,100,Found,27,-480,Found,Found,166,15,352,177,,,,,,,,Found,Found,iOS 11.4.0,mobile safari 11.0,32,2208x1242,match_status:2,T,F,F,T,mobile,iOS Device
+3663629,-5,125997,0,0,2,-2,,,0,0,100,Found,27,-480,Found,Found,166,15,352,177,,,,,,,,Found,Found,iOS 11.4.0,mobile safari 11.0,32,2208x1242,match_status:2,T,F,F,T,mobile,iOS Device
+3663658,-5,98741,,,0,0,,,,,100,Found,27,-360,New,NotFound,166,,529,214,,,,,,,,New,NotFound,iOS 11.4.0,mobile safari 11.0,32,2048x1536,match_status:2,T,F,F,F,mobile,iOS Device
+3663669,-5,265176,0,0,0,0,,,0,0,100,NotFound,52,,Found,Found,225,,266,595,,,,,,,,Found,Found,,chrome 67.0,,,,F,F,T,F,desktop,Windows
+3663677,0,109174,,,0,0,,,,,100,NotFound,,-300,New,NotFound,166,13,390,549,,,,,,,,New,NotFound,Windows 7,ie 11.0 for desktop,24,1366x768,match_status:2,T,T,T,T,desktop,Trident/7.0
+3663693,-5,97238,,,0,0,,,,,100,NotFound,27,-360,New,NotFound,166,,410,178,,,,,,,,New,NotFound,iOS 10.1.1,mobile safari 10.0,32,1334x750,match_status:2,T,F,F,T,mobile,iOS Device
+3663702,-5,202242,,,0,0,,,,,100,NotFound,52,,New,NotFound,225,,266,325,,,,,,,,New,NotFound,,edge 16.0,,,,F,F,T,F,desktop,Windows
+3663704,-5,693221,0,0,0,0,,,0,0,100,NotFound,52,-300,Found,Found,166,,139,533,,,,,,,,Found,Found,Windows 10,chrome 67.0,24,1366x768,match_status:2,T,F,T,T,desktop,Windows
+3663708,0,1518,0,0,0,0,,,0,0,100,Found,,-300,Found,Found,166,,529,161,,,,,,,,Found,Found,Mac OS X 10_13_5,chrome 67.0,24,1440x900,match_status:2,T,F,T,T,desktop,MacOS
+3663710,-5,2423,0,0,0,0,,,0,0,100,Found,27,,Found,Found,166,,139,533,,,,,,,,Found,Found,,,,,match_status:2,T,F,T,F,desktop,
+3663714,-10,119253,,,0,-6,,,,,100,NotFound,27,,New,NotFound,225,,176,595,,,,,,,,New,NotFound,,mobile safari 11.0,,,,F,F,T,F,mobile,
+3663715,-45,177709,,,-10,-15,,,,,100,NotFound,27,,New,NotFound,225,17,567,315,,,,,,,,New,NotFound,,chrome 67.0 for android,,,,F,F,T,F,mobile,RNE-L03 Build/HUAWEIRNE-L03
+3663716,-10,483692,,,1,-1,,,,,100,NotFound,27,,New,NotFound,225,,176,595,,,,,,,,New,NotFound,,chrome 67.0 for android,,,,F,F,T,F,mobile,MotoE2(4G-LTE
