@@ -3,12 +3,15 @@ This repository has code for the project ieee-fraud-detection as part of Diploma
 
 # How to run in local
 Clone the repo using git clone:
+
 git clone https://github.com/dineshkb4u/ieee-fraud-detection/tree/master/Flask
 
 Install dependencies using pip:
+
 pip install -r requirements.txt  
 
 Go to CMD and run the following command:
+
 python3 app_proj.py
 
 # Results
